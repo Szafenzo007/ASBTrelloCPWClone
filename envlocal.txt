@@ -1,0 +1,5 @@
+NEXT_PUBLIC_APPWRITE_PROJECT_ID=xxxxxxxxxxxxxxxxx
+NEXT_PUBLIC_DATABASE_ID=xxxxxxxxxxxxxxxxx
+NEXT_PUBLIC_TODOSASB_COLLECTION_ID=xxxxxxxxxxxxxxxxx
+
+OPENAI_API_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
